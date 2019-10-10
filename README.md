@@ -1,2 +1,2 @@
 # midterm
-Sonya Lustig's Misterm
+Sonya Lustig's Midterm
