@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Archivo+Black|Gothic+A1:200,300,400&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Allerta|Anton|Archivo+Black|Gothic+A1:200,300,400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Allerta|Anton|Archivo+Black|Gothic+A1:200,300,400&display=swap');
+
+
+p{
+	color: #A04000;
+	font-family: 'Gothic A1', sans-serif;
+	float: left;
+  	width: 70%;
+}
+img {
+	height: 200px;
+	width: 350px;
+	float: left;
+    padding: 20px;
+}
+
+
+a{
+	color:#D35400;
+}
+	a:hover {
+		color: #E59866;
+	}
+	a:visited {
+		color: #6E2C00;
+	}
+	a:active {
+		color: #909497;
+	}
+ul{
+	color: #A04000;
+	font-family: 'Gothic A1', sans-serif;
+	float: left;
+  	width: 70%;
+}
+
+ol{
+	float: left
+}
+#figcap{
+	color: #A04000;
+	font-family: 'Gothic A1', sans-serif;
+	float: left;
+	width: 100%;
+	padding: 20px;
+
+}
+
+
+#title{
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 45px;
+	color: #6E2C00;
+	float: left;
+  	width: 70%;
+}
+
+#contents_title{
+	text-align: center;
+	font-family: 'Gothic A1', sans-serif;
+}
+#wwf{
+	font-family: 'Archivo Black', sans-serif;
+	color: #6E2C00;
+	float: left;
+  	width: 70%;
+}
+#white_wheat {
+	font-family: 'Allerta', sans-serif;
+	color: #6E2C00;
+	float: left;
+  	width: 70%;
+}
+#bleached {
+	font-family: 'Archivo Black', sans-serif;
+	color: #6E2C00;
+	float: left;
+  	width: 70%;
+}
+#additives{
+	font-family: 'Allerta', sans-serif;
+	color: #6E2C00;
+	float: left;
+  	width: 70%;
+}
+	
+
+.h1{
+	font-family: 'Archivo Black', sans-serif;
+	color: #6E2C00;
+	float: left;
+  	width: 70%;
+}
+	#toc {
+    background-color: #FEF9E7;
+    border: dotted;
+    border-color: #C0392B; 
+    font-family: 'Gothic A1', sans-serif;
+    padding: 20px;
+    width: 20%;
+    float: right;
+}
+
+
+
+.references{
+	font-family: 'Allerta', sans-serif;
+	color: #C0392B;
+	float: left;
+  	width: 70%;
+ }
+
+#column2 {
+	font-family: 'Allerta', sans-serif;
+	color: #6E2C00;
+  float: right;
+  width: 50%;
+}
+#column_1{
+	font-family: 'Allerta', sans-serif;
+	color: #6E2C00;
+	float: left;
+  	width: 50%;
+}
